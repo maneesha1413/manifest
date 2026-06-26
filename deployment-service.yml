@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: shaikmustafa/bloodyapp:v3
+        image: shaikmustafa/bloodyapp
         ports:
         - containerPort: 3000   # Use port 3000
 
